@@ -4,7 +4,7 @@ import LandingPage from './components/LandingPage'
 import Mraquee from './components/Mraquee'
 import About from './components/About'
 import Eyes from './components/Eyes'
-import Features from './components/Featured'
+import Features from './components/Features'
 import Cards from './components/Cards'
 import Footer from './components/Footer'
 import LocomotiveScroll from 'locomotive-scroll';
