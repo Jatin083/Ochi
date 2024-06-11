@@ -73,4 +73,7 @@ ochi-clone/
 ├── README.md          # Project documentation (you're reading it!)
 └── ...                # Other configuration files
 ```
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests for any improvements, bug fixes, or new features.
 
